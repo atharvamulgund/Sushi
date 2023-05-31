@@ -8,7 +8,7 @@
 
 
 
-- Modern Responsive Website using HTML and CSS.
+Modern Responsive Website using HTML and CSS, also used AOS for onScroll Animation.
 
 
 
